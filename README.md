@@ -2,7 +2,7 @@
 ## Refrigeration simulator is a programme to design compressor refrigeration system for required operating temperatures.
 Algorithm enables to select refrigerant, compressor and condenser model and declare cycle improvements like subcooler, internal heat exchanger and recuperator.<br>
 Refrigeration cycle points are calculated and present on the chart.<br>
-Symulator may compute SEPR coefficent for condensing units according to inverter or fixed speed compressor script.<br>
+Symulator may compute SEPR coefficient for condensing units according to inverter or fixed speed compressor script.<br>
 
 ## Structure
 - RefrigerationSimulator.py - main file to define input data and run simulation
